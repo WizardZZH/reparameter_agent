@@ -1,0 +1,49 @@
+{
+  "run_id": "run_20260810_070323",
+  "seed": 20260810,
+  "source": {
+    "tmp_jsonl_path": "/data-nas/data/dataset/qunhe/cad2catalog/quanyou/order_design/tmp.jsonl",
+    "pm_info_path": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/assets/cabinet/full_para_sample/pm_info_with_panels.json",
+    "api_url": "http://data-engine-prodtest.k8s-txyun-prod.qunhequnhe.com/build_param_models"
+  },
+  "per_pm": {
+    "58794631": {
+      "category": "top_cabinet",
+      "sample_total": 250,
+      "input_count": 200,
+      "test_count": 50,
+      "files": {
+        "input": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/cabinet_data/dataset/58794631/input_200.json",
+        "test": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/cabinet_data/dataset/58794631/test_50.json"
+      }
+    },
+    "77861289": {
+      "category": "upper_cabinet",
+      "sample_total": 250,
+      "input_count": 200,
+      "test_count": 50,
+      "files": {
+        "input": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/cabinet_data/dataset/77861289/input_200.json",
+        "test": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/cabinet_data/dataset/77861289/test_50.json"
+      }
+    },
+    "59919586": {
+      "category": "lower_cabinet",
+      "sample_total": 250,
+      "input_count": 200,
+      "test_count": 50,
+      "files": {
+        "input": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/cabinet_data/dataset/59919586/input_200.json",
+        "test": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/cabinet_data/dataset/59919586/test_50.json"
+      }
+    }
+  },
+  "global": {
+    "input_count": 600,
+    "test_count": 150,
+    "files": {
+      "all_input": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/cabinet_data/dataset/all_input_600.json",
+      "all_test": "/data-nas/data/experiments/genyue/code/genyue/spatial_agent_pipeline/cabinet_data/dataset/all_test_150.json"
+    }
+  }
+}

@@ -1,0 +1,6790 @@
+[
+  {
+    "sample_id": "59919586_0146",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 12724975,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1032.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 340.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 230.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 996.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 996.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 996.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 996.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 996.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 996.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 200.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -339.0,
+        0.0,
+        1014.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -339.0,
+        212.0,
+        1014.0,
+        0.0,
+        230.0
+      ],
+      [
+        17.99999980329858,
+        -20.00000900827705,
+        17.99999980329875,
+        1014.0000001967014,
+        -10.99995699172295,
+        212.00000019670125
+      ],
+      [
+        -1.0026809849961182e-05,
+        -340.0,
+        -3.9340251589692343e-07,
+        18.00000002680985,
+        0.0,
+        230.0000003934025
+      ],
+      [
+        1013.9999949731902,
+        -340.0,
+        -3.9340251589692343e-07,
+        1032.00000502681,
+        0.0,
+        230.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0186",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21450716,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 462.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 340.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 458.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 426.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 426.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 426.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 426.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 426.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 426.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2000.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -339.0,
+        0.0,
+        444.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -339.0,
+        440.0,
+        444.0,
+        0.0,
+        458.0
+      ],
+      [
+        17.99999980329835,
+        -20.00001853362936,
+        17.99999980329875,
+        444.00000019670165,
+        -10.99998146637064,
+        440.00000019670125
+      ],
+      [
+        -2.000990830985927e-05,
+        -340.0,
+        -3.934025016860687e-07,
+        18.000000009908312,
+        0.0,
+        458.0000003934025
+      ],
+      [
+        443.9999899900917,
+        -340.0,
+        -3.934025016860687e-07,
+        462.0000100099083,
+        0.0,
+        458.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0108",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21351678,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 325.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 300.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1648.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 289.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 289.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 289.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 289.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 289.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 289.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 750.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -299.0,
+        0.0,
+        307.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -299.0,
+        1630.0,
+        307.0,
+        0.0,
+        1648.0
+      ],
+      [
+        17.999999803297214,
+        -20.000070547676195,
+        17.999999803298692,
+        307.0000001967028,
+        -10.999987452323804,
+        1630.0000001967014
+      ],
+      [
+        -7.201818536017868e-05,
+        -300.0,
+        -3.934025016860687e-07,
+        18.00000001818536,
+        0.0,
+        1648.0000003934024
+      ],
+      [
+        306.99993398181465,
+        -300.0,
+        -3.934025016860687e-07,
+        325.0000060181854,
+        0.0,
+        1648.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0087",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 14140305,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1750.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 500.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 610.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 1714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 1714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 1714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 1714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 1714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 1714.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2080.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -499.0,
+        0.0,
+        1732.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -499.0,
+        592.0,
+        1732.0,
+        0.0,
+        610.0
+      ],
+      [
+        17.999999803298124,
+        -20.00002500583016,
+        17.99999980329875,
+        1732.0000001967019,
+        -10.999924994169838,
+        592.0000001967012
+      ],
+      [
+        -2.8424758699685526e-05,
+        -500.0,
+        -3.934025016860687e-07,
+        18.0000004247587,
+        0.0,
+        660.0000003934025
+      ],
+      [
+        1731.999986668026,
+        -500.0,
+        -3.934025016860687e-07,
+        1750.000013331974,
+        0.0,
+        610.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0211",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 12067403,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 450.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 360.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1630.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 800.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -359.0,
+        0.0,
+        432.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -359.0,
+        1612.0,
+        432.0,
+        0.0,
+        1630.0
+      ],
+      [
+        17.999999803297214,
+        -20.00006988623556,
+        17.999999803298692,
+        432.0000001967028,
+        -10.999982113764439,
+        1612.0000001967014
+      ],
+      [
+        -7.062478285035922e-05,
+        -360.0,
+        -3.934025016860687e-07,
+        18.00000062478285,
+        0.0,
+        1630.0000003934024
+      ],
+      [
+        431.99993437521715,
+        -360.0,
+        -3.934025016860687e-07,
+        450.0000056247829,
+        0.0,
+        1630.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0213",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21721756,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1055.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 580.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 460.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 1019.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 1019.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 1019.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 1019.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 1019.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 1019.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2130.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -579.0,
+        0.0,
+        1037.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -579.0,
+        442.0,
+        1037.0,
+        0.0,
+        460.0
+      ],
+      [
+        17.99999980329835,
+        -20.000018537767886,
+        17.99999980329875,
+        1037.0000001967016,
+        -10.999955462232116,
+        442.00000019670125
+      ],
+      [
+        -2.0553619700436343e-05,
+        -580.0,
+        -3.934025016860687e-07,
+        17.999999553619702,
+        0.0,
+        460.0000003934025
+      ],
+      [
+        1036.9999899463803,
+        -580.0,
+        -3.934025016860687e-07,
+        1055.0000100536197,
+        0.0,
+        460.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0199",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 17744313,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1876.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 366.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 256.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 1840.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 1840.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 1840.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 1840.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 1840.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 1840.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 288.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -365.0,
+        0.0,
+        1858.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -365.0,
+        238.0,
+        1858.0,
+        0.0,
+        256.0
+      ],
+      [
+        17.999999803298465,
+        -20.0000100227317,
+        17.99999980329875,
+        1858.0000001967014,
+        -10.999919977268299,
+        238.00000019670125
+      ],
+      [
+        -1.1595057920033014e-05,
+        -366.0,
+        -3.934025016860687e-07,
+        17.99999959505792,
+        0.0,
+        256.0000003934025
+      ],
+      [
+        1857.999994404942,
+        -366.0,
+        -3.934025016860687e-07,
+        1876.000005595058,
+        0.0,
+        256.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0068",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 15507119,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 972.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 350.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 300.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 936.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 936.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 936.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 936.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 936.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 936.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1450.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -349.0,
+        0.0,
+        954.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -349.0,
+        282.0,
+        954.0,
+        0.0,
+        300.0
+      ],
+      [
+        17.999999803298522,
+        -20.000011226834,
+        17.99999980329875,
+        954.0000001967014,
+        -10.999958773166,
+        282.00000019670125
+      ],
+      [
+        -1.3556708500672698e-05,
+        -350.0,
+        -3.934025016860687e-07,
+        17.999999556708502,
+        0.0,
+        300.0000003934025
+      ],
+      [
+        953.9999934432915,
+        -350.0,
+        -3.934025016860687e-07,
+        972.0000065567085,
+        0.0,
+        300.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0094",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 18012650,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1800.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 270.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 880.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 873.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 873.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 873.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 873.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 873.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 873.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1480.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -269.0,
+        0.0,
+        891.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -269.0,
+        862.0,
+        891.0,
+        0.0,
+        880.0
+      ],
+      [
+        17.999999803297953,
+        -20.000037526228315,
+        17.99999980329875,
+        891.0000001967021,
+        -10.999962473771685,
+        862.0000001967012
+      ],
+      [
+        909.0,
+        -269.0,
+        0.0,
+        1782.0,
+        0.0,
+        18.0
+      ],
+      [
+        909.0,
+        -269.0,
+        862.0,
+        1782.0,
+        0.0,
+        880.0
+      ],
+      [
+        908.9999998032979,
+        -20.000037526228315,
+        17.99999980329875,
+        1782.000000196702,
+        -10.999962473771685,
+        862.0000001967012
+      ],
+      [
+        -3.8233011599331235e-05,
+        -270.0,
+        -3.934025016860687e-07,
+        18.000000233011598,
+        0.0,
+        880.0000003934025
+      ],
+      [
+        890.9999807669884,
+        -270.0,
+        -3.934025016860687e-07,
+        909.0000192330116,
+        0.0,
+        880.0000003934025
+      ],
+      [
+        1781.9999807669883,
+        -270.0,
+        -3.934025016860687e-07,
+        1800.0000192330117,
+        0.0,
+        880.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0058",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 10906010,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1000.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 380.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 535.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 964.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 964.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 964.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 964.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 964.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 964.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2150.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -379.0,
+        0.0,
+        982.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -379.0,
+        517.0,
+        982.0,
+        0.0,
+        535.0
+      ],
+      [
+        17.999999803298294,
+        -20.000021974881786,
+        17.99999980329875,
+        982.0000001967016,
+        -10.999958025118215,
+        517.0000001967012
+      ],
+      [
+        -2.269279682565184e-05,
+        -380.0,
+        -3.934025016860687e-07,
+        18.000000692796824,
+        0.0,
+        535.0000003934025
+      ],
+      [
+        981.9999883072031,
+        -380.0,
+        -3.934025016860687e-07,
+        1000.0000116927969,
+        0.0,
+        535.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0232",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 14175010,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 966.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 380.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1550.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 930.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 930.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 930.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 930.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 930.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 930.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1000.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -379.0,
+        0.0,
+        948.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -379.0,
+        1532.0,
+        948.0,
+        0.0,
+        1550.0
+      ],
+      [
+        17.999999803297328,
+        -20.000066415318578,
+        17.999999803298692,
+        948.0000001967027,
+        -10.99995958468142,
+        1532.0000001967014
+      ],
+      [
+        475.50001349999997,
+        -20.00000058952223,
+        17.999999746474032,
+        490.5000465,
+        -8.399937410477769,
+        1532.000000253526
+      ],
+      [
+        -6.787632724858383e-05,
+        -380.0,
+        -3.934025016860687e-07,
+        17.99999987632725,
+        0.0,
+        1550.0000003934024
+      ],
+      [
+        947.999905030888,
+        -380.0,
+        -3.934025016860687e-07,
+        965.999974969112,
+        0.0,
+        1600.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0191",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 20309161,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1248.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 465.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 450.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 389.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 805.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 805.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 805.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 805.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 805.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2180.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -464.0,
+        0.0,
+        407.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -464.0,
+        432.0,
+        407.0,
+        0.0,
+        450.0
+      ],
+      [
+        17.99999980329835,
+        -20.000017550123083,
+        17.99999980329875,
+        407.00000019670165,
+        -10.999982449876915,
+        432.00000019670125
+      ],
+      [
+        425.0,
+        -464.0,
+        0.0,
+        1230.0,
+        0.0,
+        18.0
+      ],
+      [
+        425.0,
+        -464.0,
+        432.0,
+        1230.0,
+        0.0,
+        450.0
+      ],
+      [
+        424.99999980329835,
+        -20.000017642092203,
+        17.99999980329875,
+        1230.0000001967016,
+        -10.999964357907794,
+        432.00000019670125
+      ],
+      [
+        -1.983506274960689e-05,
+        -465.0,
+        -3.934025016860687e-07,
+        17.999999835062752,
+        0.0,
+        450.0000003934025
+      ],
+      [
+        406.99999016493723,
+        -465.0,
+        -3.934025016860687e-07,
+        425.00000983506277,
+        0.0,
+        450.0000003934025
+      ],
+      [
+        1229.9999901649373,
+        -465.0,
+        -3.934025016860687e-07,
+        1248.0000098350627,
+        0.0,
+        450.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0198",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 13038343,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1200.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 330.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 200.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 1164.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 1164.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 1164.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 1164.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 1164.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 1164.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 229.84600830078125,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -329.0,
+        0.0,
+        1182.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -329.0,
+        182.0,
+        1182.0,
+        0.0,
+        200.0
+      ],
+      [
+        17.99999980329858,
+        -20.00000702436296,
+        17.99999980329875,
+        1182.0000001967014,
+        -10.99994897563704,
+        182.00000019670125
+      ],
+      [
+        -9.371138999014761e-06,
+        -330.0,
+        -3.9340251589692343e-07,
+        17.999999371138998,
+        0.0,
+        200.0000003934025
+      ],
+      [
+        1181.999995628861,
+        -330.0,
+        -3.9340251589692343e-07,
+        1200.000004371139,
+        0.0,
+        200.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0245",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 17919002,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 800.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 265.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 718.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1680.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -264.0,
+        0.0,
+        782.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -264.0,
+        700.0,
+        782.0,
+        0.0,
+        718.0
+      ],
+      [
+        17.999999803298124,
+        -20.00002960333497,
+        17.99999980329875,
+        782.0000001967019,
+        -10.99996639666503,
+        700.0000001967012
+      ],
+      [
+        -3.069238900899052e-05,
+        -265.0,
+        -3.934025016860687e-07,
+        18.00000069238901,
+        0.0,
+        718.0000003934025
+      ],
+      [
+        781.999984307611,
+        -265.0,
+        -3.934025016860687e-07,
+        800.000015692389,
+        0.0,
+        718.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0134",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21813657,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1632.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 580.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 554.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2176.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -579.0,
+        0.0,
+        807.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -579.0,
+        536.0,
+        807.0,
+        0.0,
+        554.0
+      ],
+      [
+        17.999999803298238,
+        -20.000022565393365,
+        17.99999980329875,
+        807.0000001967018,
+        -10.999965434606633,
+        536.0000001967012
+      ],
+      [
+        825.0,
+        -579.0,
+        0.0,
+        1614.0,
+        0.0,
+        18.0
+      ],
+      [
+        825.0,
+        -579.0,
+        536.0,
+        1614.0,
+        0.0,
+        554.0
+      ],
+      [
+        824.9999998032982,
+        -20.000022565393365,
+        17.99999980329875,
+        1614.0000001967019,
+        -10.999965434606633,
+        536.0000001967012
+      ],
+      [
+        -2.410805502961466e-05,
+        -580.0,
+        -3.934025016860687e-07,
+        18.00000010805503,
+        0.0,
+        554.0000003934025
+      ],
+      [
+        806.999987891945,
+        -580.0,
+        -3.934025016860687e-07,
+        825.000012108055,
+        0.0,
+        554.0000003934025
+      ],
+      [
+        1613.999987891945,
+        -580.0,
+        -3.934025016860687e-07,
+        1632.000012108055,
+        0.0,
+        554.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0136",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21385395,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1754.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 580.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1745.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 849.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 851.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 851.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 851.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 851.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 851.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1080.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -579.0,
+        0.0,
+        867.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -579.0,
+        1727.0,
+        867.0,
+        0.0,
+        1745.0
+      ],
+      [
+        17.9999998032971,
+        -20.00007490686781,
+        17.999999803298692,
+        867.0000001967029,
+        -10.999963093132191,
+        1727.0000001967014
+      ],
+      [
+        885.0,
+        -579.0,
+        0.0,
+        1736.0,
+        0.0,
+        18.0
+      ],
+      [
+        885.0,
+        -579.0,
+        1727.0,
+        1736.0,
+        0.0,
+        1745.0
+      ],
+      [
+        884.9999998032971,
+        -20.0000749505792,
+        17.999999803298692,
+        1736.0000001967028,
+        -10.9999630494208,
+        1727.0000001967014
+      ],
+      [
+        -7.61381877758538e-05,
+        -580.0,
+        -3.934025016860687e-07,
+        18.000000138187776,
+        0.0,
+        1745.0000003934024
+      ],
+      [
+        866.9999018618123,
+        -580.0,
+        -3.934025016860687e-07,
+        884.9999781381878,
+        0.0,
+        1745.0000003934024
+      ],
+      [
+        1735.9999618618122,
+        -580.0,
+        -3.934025016860687e-07,
+        1754.0000381381878,
+        0.0,
+        1745.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0120",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 15507119,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 972.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 330.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 630.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 609.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 309.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 609.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 609.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 609.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 609.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 130,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1750.0000656290626,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -329.0,
+        0.0,
+        627.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -329.0,
+        612.0,
+        627.0,
+        0.0,
+        630.0
+      ],
+      [
+        17.99999980329818,
+        -20.000026292401085,
+        17.99999980329875,
+        627.0000001967019,
+        -10.999973707598915,
+        612.0000001967012
+      ],
+      [
+        645.0,
+        -329.0,
+        0.0,
+        954.0,
+        0.0,
+        18.0
+      ],
+      [
+        645.0,
+        -329.0,
+        612.0,
+        954.0,
+        0.0,
+        630.0
+      ],
+      [
+        644.9999998032981,
+        -20.000025735692585,
+        17.99999980329875,
+        954.0000001967019,
+        -10.999986264307417,
+        612.0000001967012
+      ],
+      [
+        -2.6769087849487505e-05,
+        -330.0,
+        -3.934025016860687e-07,
+        18.00000076908785,
+        0.0,
+        630.0000003934025
+      ],
+      [
+        626.9999862309121,
+        -330.0,
+        -3.934025016860687e-07,
+        645.0000137690879,
+        0.0,
+        630.0000003934025
+      ],
+      [
+        953.9999833896718,
+        -330.0,
+        -3.934025016860687e-07,
+        972.0000166103282,
+        0.0,
+        760.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0222",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 14588641,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 280.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 330.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1000.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 244.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 244.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 244.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 244.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 244.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 244.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 600.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -329.0,
+        0.0,
+        262.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -329.0,
+        982.0,
+        262.0,
+        0.0,
+        1000.0
+      ],
+      [
+        17.999999803297825,
+        -20.00004140167956,
+        17.99999980329875,
+        262.00000019670216,
+        -10.999988598320439,
+        982.0000001967012
+      ],
+      [
+        -4.385569499909536e-05,
+        -330.0,
+        -3.934025016860687e-07,
+        17.999999855695002,
+        0.0,
+        1000.0000003934025
+      ],
+      [
+        261.999948144305,
+        -330.0,
+        -3.934025016860687e-07,
+        279.99999185569504,
+        0.0,
+        1000.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0123",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21850584,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 300.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 146.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 487.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 264.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 264.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 264.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 264.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 264.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 264.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 487.00001318720683,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -145.0,
+        0.0,
+        282.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -145.0,
+        469.0,
+        282.0,
+        0.0,
+        487.0
+      ],
+      [
+        17.999999803298323,
+        -20.000019626821924,
+        17.99999980329875,
+        282.00000019670165,
+        -10.999988373178075,
+        469.00000019670125
+      ],
+      [
+        -2.1143723465399944e-05,
+        -146.0,
+        -3.934025016860687e-07,
+        18.000000143723465,
+        0.0,
+        487.0000003934025
+      ],
+      [
+        281.99998935627656,
+        -146.0,
+        -3.934025016860687e-07,
+        300.00001064372344,
+        0.0,
+        487.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0062",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 17612025,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 899.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 340.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 630.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 863.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 863.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 863.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 863.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 863.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 863.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1755.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -339.0,
+        0.0,
+        881.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -339.0,
+        612.0,
+        881.0,
+        0.0,
+        630.0
+      ],
+      [
+        17.99999980329818,
+        -20.000025843747615,
+        17.99999980329875,
+        881.0000001967019,
+        -10.999962156252383,
+        612.0000001967012
+      ],
+      [
+        -2.6769087849487505e-05,
+        -340.0,
+        -3.934025016860687e-07,
+        18.00000076908785,
+        0.0,
+        630.0000003934025
+      ],
+      [
+        880.9999862309121,
+        -340.0,
+        -3.934025016860687e-07,
+        899.0000137690879,
+        0.0,
+        630.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0081",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 11714098,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1229.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 500.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 550.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 726.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 449.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 726.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 726.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 726.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 726.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2080.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -499.0,
+        0.0,
+        744.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -499.0,
+        532.0,
+        744.0,
+        0.0,
+        550.0
+      ],
+      [
+        17.999999803298238,
+        -20.000022101061802,
+        17.99999980329875,
+        744.0000001967018,
+        -10.9999678989382,
+        532.0000001967012
+      ],
+      [
+        762.0,
+        -499.0,
+        0.0,
+        1211.0,
+        0.0,
+        18.0
+      ],
+      [
+        762.0,
+        -499.0,
+        532.0,
+        1211.0,
+        0.0,
+        550.0
+      ],
+      [
+        761.9999998032982,
+        -20.000023047034286,
+        17.99999980329875,
+        1211.0000001967016,
+        -10.999980952965714,
+        532.0000001967012
+      ],
+      [
+        -2.402063224948847e-05,
+        -500.0,
+        -3.934025016860687e-07,
+        18.00000002063225,
+        0.0,
+        550.0000003934025
+      ],
+      [
+        743.9999879793678,
+        -500.0,
+        -3.934025016860687e-07,
+        762.0000120206322,
+        0.0,
+        550.0000003934025
+      ],
+      [
+        1210.9999879793677,
+        -500.0,
+        -3.934025016860687e-07,
+        1229.0000120206323,
+        0.0,
+        550.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0238",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 11536840,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 800.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 340.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 560.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 764.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1670.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -339.0,
+        0.0,
+        782.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -339.0,
+        542.0,
+        782.0,
+        0.0,
+        560.0
+      ],
+      [
+        17.999999803298238,
+        -20.00002215013516,
+        17.99999980329875,
+        782.0000001967018,
+        -10.99996584986484,
+        542.0000001967012
+      ],
+      [
+        -2.4239189199803945e-05,
+        -340.0,
+        -3.934025016860687e-07,
+        18.0000002391892,
+        0.0,
+        560.0000003934025
+      ],
+      [
+        781.9999877608108,
+        -340.0,
+        -3.934025016860687e-07,
+        800.0000122391892,
+        0.0,
+        560.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0073",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 13860037,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1320.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 330.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 663.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 626.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 626.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 626.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 626.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 626.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 626.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2080.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -329.0,
+        0.0,
+        644.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -329.0,
+        645.0,
+        644.0,
+        0.0,
+        663.0
+      ],
+      [
+        17.999999803298124,
+        -20.000027385185835,
+        17.99999980329875,
+        644.0000001967019,
+        -10.999972614814165,
+        645.0000001967012
+      ],
+      [
+        662.0,
+        -329.0,
+        0.0,
+        1288.0,
+        0.0,
+        18.0
+      ],
+      [
+        662.0,
+        -329.0,
+        645.0,
+        1288.0,
+        0.0,
+        663.0
+      ],
+      [
+        661.9999998032981,
+        -20.000027385185835,
+        17.99999980329875,
+        1288.0000001967019,
+        -10.999972614814165,
+        645.0000001967012
+      ],
+      [
+        -3.058311053472096e-05,
+        -330.0,
+        -3.934025016860687e-07,
+        18.000000583110534,
+        0.0,
+        713.0000003934025
+      ],
+      [
+        643.9999855096742,
+        -330.0,
+        -3.934025016860687e-07,
+        662.0000144903258,
+        0.0,
+        663.0000003934025
+      ],
+      [
+        1301.9999844168894,
+        -330.0,
+        -3.934025016860687e-07,
+        1320.0000155831106,
+        0.0,
+        713.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0050",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 12598290,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 390.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 540.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 367.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 354.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 354.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 354.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 354.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 354.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 354.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1993.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -539.0,
+        0.0,
+        372.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -539.0,
+        349.0,
+        372.0,
+        0.0,
+        367.0
+      ],
+      [
+        17.999999803298437,
+        -20.000014971151074,
+        17.99999980329875,
+        372.00000019670154,
+        -10.999985028848926,
+        349.00000019670125
+      ],
+      [
+        -1.6021040064373437e-05,
+        -540.0,
+        -3.934025016860687e-07,
+        18.000000021040066,
+        0.0,
+        367.0000003934025
+      ],
+      [
+        371.99999197895994,
+        -540.0,
+        -3.934025016860687e-07,
+        390.00000802104006,
+        0.0,
+        367.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0126",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 20601302,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 450.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 380.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 2000.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 414.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 680.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -379.0,
+        0.0,
+        432.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -379.0,
+        1982.0,
+        432.0,
+        0.0,
+        2000.0
+      ],
+      [
+        17.999999803296873,
+        -20.00008597284271,
+        17.999999803298692,
+        432.0000001967031,
+        -10.999982027157289,
+        1982.0000001967014
+      ],
+      [
+        -8.771138999996708e-05,
+        -380.0,
+        -3.934025016860687e-07,
+        17.999999711389997,
+        0.0,
+        2000.0000003934024
+      ],
+      [
+        431.99992628861,
+        -380.0,
+        -3.934025016860687e-07,
+        450.00001371139,
+        0.0,
+        2000.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0150",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 17429173,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 470.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 350.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 391.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 434.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 434.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 434.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 434.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 434.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 434.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1984.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -349.0,
+        0.0,
+        452.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -349.0,
+        373.0,
+        452.0,
+        0.0,
+        391.0
+      ],
+      [
+        17.999999803298408,
+        -20.000015244143356,
+        17.99999980329875,
+        452.0000001967016,
+        -10.999980755856644,
+        373.00000019670125
+      ],
+      [
+        -1.754557674615853e-05,
+        -350.0,
+        -3.934025016860687e-07,
+        17.999999545576745,
+        0.0,
+        391.0000003934025
+      ],
+      [
+        451.99999145442325,
+        -350.0,
+        -3.934025016860687e-07,
+        470.00000854557675,
+        0.0,
+        391.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0214",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21067170,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1182.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 340.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 862.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1600.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -339.0,
+        0.0,
+        1164.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -339.0,
+        844.0,
+        1164.0,
+        0.0,
+        862.0
+      ],
+      [
+        17.999999803297897,
+        -20.00003509943054,
+        17.99999980329875,
+        1164.000000196702,
+        -10.99994890056946,
+        844.0000001967012
+      ],
+      [
+        -3.783960909053974e-05,
+        -340.0,
+        -3.934025016860687e-07,
+        17.99999983960909,
+        0.0,
+        862.0000003934025
+      ],
+      [
+        1163.9999800676062,
+        -340.0,
+        -3.934025016860687e-07,
+        1182.0000199323938,
+        0.0,
+        912.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0153",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 16652744,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 700.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 580.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 500.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1905.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -579.0,
+        0.0,
+        682.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -579.0,
+        482.0,
+        682.0,
+        0.0,
+        500.0
+      ],
+      [
+        17.999999803298294,
+        -20.00002065322396,
+        17.99999980329875,
+        682.0000001967016,
+        -10.99997134677604,
+        482.00000019670125
+      ],
+      [
+        -2.402063224948847e-05,
+        -580.0,
+        -3.934025016860687e-07,
+        18.00000002063225,
+        0.0,
+        550.0000003934025
+      ],
+      [
+        681.9999879793678,
+        -580.0,
+        -3.934025016860687e-07,
+        700.0000120206322,
+        0.0,
+        550.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0135",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 14829220,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 933.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 500.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 430.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 897.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 897.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 897.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 897.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 897.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 897.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2080.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -499.0,
+        0.0,
+        915.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -499.0,
+        412.0,
+        915.0,
+        0.0,
+        430.0
+      ],
+      [
+        17.99999980329835,
+        -20.000017215702243,
+        17.99999980329875,
+        915.0000001967016,
+        -10.999960784297755,
+        412.00000019670125
+      ],
+      [
+        -1.9397948848975943e-05,
+        -500.0,
+        -3.934025016860687e-07,
+        17.999999397948848,
+        0.0,
+        430.0000003934025
+      ],
+      [
+        914.9999895092664,
+        -500.0,
+        -3.934025016860687e-07,
+        933.0000104907336,
+        0.0,
+        480.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0169",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 12563528,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1080.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 340.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1050.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 333.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 693.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 693.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 693.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 693.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 693.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1400.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -339.0,
+        0.0,
+        351.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -339.0,
+        1032.0,
+        351.0,
+        0.0,
+        1050.0
+      ],
+      [
+        17.999999803297783,
+        -20.000044439621163,
+        17.99999980329875,
+        351.0000001967022,
+        -10.999985560378835,
+        1032.0000001967012
+      ],
+      [
+        369.0,
+        -339.0,
+        0.0,
+        1062.0,
+        0.0,
+        18.0
+      ],
+      [
+        369.0,
+        -339.0,
+        1032.0,
+        1062.0,
+        0.0,
+        1050.0
+      ],
+      [
+        368.9999998032978,
+        -20.000045307671364,
+        17.99999980329875,
+        1062.0000001967023,
+        -10.999970692328635,
+        1032.0000001967012
+      ],
+      [
+        -4.804126449897694e-05,
+        -340.0,
+        -3.934025016860687e-07,
+        18.0000000412645,
+        0.0,
+        1100.0000003934024
+      ],
+      [
+        350.9999470515203,
+        -340.0,
+        -3.934025016860687e-07,
+        368.99999294847976,
+        0.0,
+        1050.0000003934024
+      ],
+      [
+        1061.9999770515203,
+        -340.0,
+        -3.934025016860687e-07,
+        1080.0000229484797,
+        0.0,
+        1050.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0078",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 17806813,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1200.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 505.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 600.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 373.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 773.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 773.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 773.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 773.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 773.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2080.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -504.0,
+        0.0,
+        391.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -504.0,
+        582.0,
+        391.0,
+        0.0,
+        600.0
+      ],
+      [
+        17.99999980329821,
+        -20.000024478786216,
+        17.99999980329875,
+        391.00000019670176,
+        -10.999983521213785,
+        582.0000001967012
+      ],
+      [
+        409.0,
+        -504.0,
+        0.0,
+        1182.0,
+        0.0,
+        18.0
+      ],
+      [
+        409.0,
+        -504.0,
+        582.0,
+        1182.0,
+        0.0,
+        600.0
+      ],
+      [
+        408.99999980329824,
+        -20.000024221064216,
+        17.99999980329875,
+        1182.0000001967019,
+        -10.999965778935785,
+        582.0000001967012
+      ],
+      [
+        -2.6113416998541084e-05,
+        -505.0,
+        -3.934025016860687e-07,
+        18.000000113417002,
+        0.0,
+        600.0000003934025
+      ],
+      [
+        390.999986886583,
+        -505.0,
+        -3.934025016860687e-07,
+        409.000013113417,
+        0.0,
+        600.0000003934025
+      ],
+      [
+        1181.999986886583,
+        -505.0,
+        -3.934025016860687e-07,
+        1200.000013113417,
+        0.0,
+        600.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0011",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 11403193,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 605.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 737.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 540.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 569.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 569.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 569.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 569.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 569.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 569.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1872.584228515625,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -736.0,
+        0.0,
+        587.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -736.0,
+        522.0,
+        587.0,
+        0.0,
+        540.0
+      ],
+      [
+        17.999999803298294,
+        -20.000021451160734,
+        17.99999980329875,
+        587.0000001967016,
+        -10.999974548839266,
+        522.0000001967012
+      ],
+      [
+        -2.2802075299921398e-05,
+        -737.0,
+        -3.934025016860687e-07,
+        18.0000008020753,
+        0.0,
+        540.0000003934025
+      ],
+      [
+        586.9999881979247,
+        -737.0,
+        -3.934025016860687e-07,
+        605.0000118020753,
+        0.0,
+        540.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0202",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 13284958,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 888.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 519.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1435.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 852.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 852.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 852.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 852.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 852.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 852.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1300.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -518.0,
+        0.0,
+        870.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -518.0,
+        1417.0,
+        870.0,
+        0.0,
+        1435.0
+      ],
+      [
+        17.999999803297385,
+        -20.000060197169446,
+        17.999999803298692,
+        870.0000001967026,
+        -10.999961802830555,
+        1417.0000001967014
+      ],
+      [
+        -6.236292232486562e-05,
+        -519.0,
+        -3.934025016860687e-07,
+        18.000000362922325,
+        0.0,
+        1435.0000003934024
+      ],
+      [
+        869.9999086370777,
+        -519.0,
+        -3.934025016860687e-07,
+        887.9999713629223,
+        0.0,
+        1435.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0069",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 20110557,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1778.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 420.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 175.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 580.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 1144.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 1144.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 1144.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 1144.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 1144.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 600.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -419.0,
+        0.0,
+        598.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -419.0,
+        157.0,
+        598.0,
+        0.0,
+        175.0
+      ],
+      [
+        17.999999803298635,
+        -20.000005714244704,
+        17.99999980329875,
+        598.0000001967014,
+        -10.999974285755297,
+        157.00000019670125
+      ],
+      [
+        616.0,
+        -419.0,
+        0.0,
+        1760.0,
+        0.0,
+        18.0
+      ],
+      [
+        616.0,
+        -419.0,
+        157.0,
+        1760.0,
+        0.0,
+        175.0
+      ],
+      [
+        615.9999998032986,
+        -20.000006040856686,
+        17.99999980329875,
+        1760.0000001967014,
+        -10.999949959143315,
+        157.00000019670125
+      ],
+      [
+        -7.824746624862655e-06,
+        -420.0,
+        -3.9340251589692343e-07,
+        17.999999824746624,
+        0.0,
+        175.0000003934025
+      ],
+      [
+        597.9999961752534,
+        -420.0,
+        -3.9340251589692343e-07,
+        616.0000038247466,
+        0.0,
+        175.0000003934025
+      ],
+      [
+        1759.9999961752533,
+        -420.0,
+        -3.9340251589692343e-07,
+        1778.0000038247467,
+        0.0,
+        175.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0212",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 12551095,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 514.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 282.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 900.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 478.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 478.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 478.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 478.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 478.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 478.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1200.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -281.0,
+        0.0,
+        496.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -281.0,
+        882.0,
+        496.0,
+        0.0,
+        900.0
+      ],
+      [
+        17.999999803297925,
+        -20.00003833034269,
+        17.99999980329875,
+        496.0000001967021,
+        -10.99997966965731,
+        882.0000001967012
+      ],
+      [
+        -3.967012549921378e-05,
+        -282.0,
+        -3.934025016860687e-07,
+        17.9999996701255,
+        0.0,
+        900.0000003934025
+      ],
+      [
+        495.99995032987454,
+        -282.0,
+        -3.934025016860687e-07,
+        513.9999896701255,
+        0.0,
+        900.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0098",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 20289550,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 864.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 370.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1396.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 828.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 828.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 828.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 828.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 828.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 828.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1000.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -369.0,
+        0.0,
+        846.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -369.0,
+        1378.0,
+        846.0,
+        0.0,
+        1396.0
+      ],
+      [
+        17.99999980329744,
+        -20.000058820260662,
+        17.999999803298692,
+        846.0000001967026,
+        -10.999963179739341,
+        1378.0000001967014
+      ],
+      [
+        -6.1010550219009474e-05,
+        -370.0,
+        -3.934025016860687e-07,
+        18.00000001055022,
+        0.0,
+        1396.0000003934024
+      ],
+      [
+        845.9999694894498,
+        -370.0,
+        -3.934025016860687e-07,
+        864.0000305105502,
+        0.0,
+        1396.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0028",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21368862,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 787.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 580.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1480.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 751.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 751.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 751.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 751.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 751.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 751.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 800.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -579.0,
+        0.0,
+        769.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -579.0,
+        1462.0,
+        769.0,
+        0.0,
+        1480.0
+      ],
+      [
+        17.999999803297385,
+        -20.000062973250525,
+        17.999999803298692,
+        769.0000001967026,
+        -10.999967026749474,
+        1462.0000001967014
+      ],
+      [
+        -6.434642859964868e-05,
+        -580.0,
+        -3.934025016860687e-07,
+        18.0000003464286,
+        0.0,
+        1480.0000003934024
+      ],
+      [
+        768.9999076535714,
+        -580.0,
+        -3.934025016860687e-07,
+        786.9999723464286,
+        0.0,
+        1480.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0106",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 12345189,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 700.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 490.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 500.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 664.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2100.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -489.0,
+        0.0,
+        682.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -489.0,
+        482.0,
+        682.0,
+        0.0,
+        500.0
+      ],
+      [
+        17.999999803298294,
+        -20.00002065322396,
+        17.99999980329875,
+        682.0000001967016,
+        -10.99997134677604,
+        482.00000019670125
+      ],
+      [
+        -2.142784749992188e-05,
+        -490.0,
+        -3.934025016860687e-07,
+        18.0000004278475,
+        0.0,
+        500.0000003934025
+      ],
+      [
+        681.9999890721525,
+        -490.0,
+        -3.934025016860687e-07,
+        700.0000109278475,
+        0.0,
+        500.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0000",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 17918684,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 696.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 170.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 450.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 660.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 660.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 660.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 660.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 660.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 660.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 0.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -169.0,
+        0.0,
+        678.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -169.0,
+        432.0,
+        678.0,
+        0.0,
+        450.0
+      ],
+      [
+        17.99999980329835,
+        -20.000017473016428,
+        17.99999980329875,
+        678.0000001967016,
+        -10.999970526983569,
+        432.00000019670125
+      ],
+      [
+        -1.983506274960689e-05,
+        -170.0,
+        -3.934025016860687e-07,
+        17.999999835062752,
+        0.0,
+        450.0000003934025
+      ],
+      [
+        677.9999901649372,
+        -170.0,
+        -3.934025016860687e-07,
+        696.0000098350628,
+        0.0,
+        450.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0024",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 20461271,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 547.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 110.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 400.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 511.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 511.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 511.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 511.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 511.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 511.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 900.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -109.0,
+        0.0,
+        529.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -109.0,
+        382.0,
+        529.0,
+        0.0,
+        400.0
+      ],
+      [
+        17.999999803298408,
+        -20.000015123733125,
+        17.99999980329875,
+        529.0000001967016,
+        -10.999976876266874,
+        382.00000019670125
+      ],
+      [
+        -1.774227800055428e-05,
+        -110.0,
+        -3.934025016860687e-07,
+        17.999999742278,
+        0.0,
+        400.0000003934025
+      ],
+      [
+        528.999991257722,
+        -110.0,
+        -3.934025016860687e-07,
+        547.000008742278,
+        0.0,
+        400.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0107",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 16558819,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 750.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 235.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1550.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 714.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 714.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 850.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -234.0,
+        0.0,
+        732.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -234.0,
+        1532.0,
+        732.0,
+        0.0,
+        1550.0
+      ],
+      [
+        17.999999803297328,
+        -20.00006569448846,
+        17.999999803298692,
+        732.0000001967027,
+        -10.99996830551154,
+        1532.0000001967014
+      ],
+      [
+        -6.787632724858383e-05,
+        -235.0,
+        -3.934025016860687e-07,
+        17.99999987632725,
+        0.0,
+        1550.0000003934024
+      ],
+      [
+        731.9999061236728,
+        -235.0,
+        -3.934025016860687e-07,
+        749.9999738763273,
+        0.0,
+        1550.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0152",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 15856337,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 920.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 305.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1115.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 884.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 884.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 884.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 884.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 884.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 884.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 750,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 750,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1550.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -304.0,
+        0.0,
+        902.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -304.0,
+        1097.0,
+        902.0,
+        0.0,
+        1115.0
+      ],
+      [
+        17.999999803297726,
+        -20.000046902729284,
+        17.999999803298692,
+        902.0000001967023,
+        -10.999961097270717,
+        1097.0000001967014
+      ],
+      [
+        -4.936909992636629e-05,
+        -305.0,
+        -3.934025016860687e-07,
+        17.999999369099925,
+        0.0,
+        1115.0000003934024
+      ],
+      [
+        901.9999756309,
+        -305.0,
+        -3.934025016860687e-07,
+        920.0000243691,
+        0.0,
+        1115.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0147",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 19954383,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 3370.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 540.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 505.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 4,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 815.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 824.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 824.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 817.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 817.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 817.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 20,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 20,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 2080.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -539.0,
+        0.0,
+        833.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -539.0,
+        487.0,
+        833.0,
+        0.0,
+        505.0
+      ],
+      [
+        17.999999803298294,
+        -20.00002006271238,
+        17.99999980329875,
+        833.0000001967016,
+        -10.999963937287621,
+        487.00000019670125
+      ],
+      [
+        851.0,
+        -539.0,
+        0.0,
+        1675.0,
+        0.0,
+        18.0
+      ],
+      [
+        851.0,
+        -539.0,
+        487.0,
+        1675.0,
+        0.0,
+        505.0
+      ],
+      [
+        850.9999998032984,
+        -20.000020259413635,
+        17.99999980329875,
+        1675.0000001967016,
+        -10.999963740586367,
+        487.00000019670125
+      ],
+      [
+        1693.0,
+        -539.0,
+        0.0,
+        2517.0,
+        0.0,
+        18.0
+      ],
+      [
+        1693.0,
+        -539.0,
+        487.0,
+        2517.0,
+        0.0,
+        505.0
+      ],
+      [
+        1692.9999998032984,
+        -20.000020259413635,
+        17.99999980329875,
+        2517.000000196702,
+        -10.999963740586367,
+        487.00000019670125
+      ],
+      [
+        2535.0,
+        -539.0,
+        0.0,
+        3352.0,
+        0.0,
+        18.0
+      ],
+      [
+        2535.0,
+        -539.0,
+        487.0,
+        3352.0,
+        0.0,
+        505.0
+      ],
+      [
+        2534.999999803298,
+        -20.00002010642377,
+        17.99999980329875,
+        3352.000000196702,
+        -10.999963893576231,
+        487.00000019670125
+      ],
+      [
+        -2.2474239875336366e-05,
+        -540.0,
+        -3.934025016860687e-07,
+        18.000000474239876,
+        0.0,
+        525.0000003934025
+      ],
+      [
+        832.999988962874,
+        -540.0,
+        -3.934025016860687e-07,
+        851.000011037126,
+        0.0,
+        505.0000003934025
+      ],
+      [
+        1674.999988962874,
+        -540.0,
+        -3.934025016860687e-07,
+        1693.000011037126,
+        0.0,
+        505.0000003934025
+      ],
+      [
+        2516.999988962874,
+        -540.0,
+        -3.934025016860687e-07,
+        2535.000011037126,
+        0.0,
+        505.0000003934025
+      ],
+      [
+        3351.9999885257603,
+        -540.0,
+        -3.934025016860687e-07,
+        3370.0000114742397,
+        0.0,
+        525.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0013",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 18896226,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1182.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 305.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 940.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 1146.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1400.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -304.0,
+        0.0,
+        1164.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -304.0,
+        922.0,
+        1164.0,
+        0.0,
+        940.0
+      ],
+      [
+        17.999999803297783,
+        -20.00003880417475,
+        17.99999980329875,
+        1164.0000001967023,
+        -10.999949195825248,
+        922.0000001967012
+      ],
+      [
+        -4.154435329972728e-05,
+        -305.0,
+        -3.934025016860687e-07,
+        17.9999995443533,
+        0.0,
+        940.0000003934025
+      ],
+      [
+        1163.9999794556468,
+        -305.0,
+        -3.934025016860687e-07,
+        1182.0000205443532,
+        0.0,
+        940.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0121",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 21262351,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1225.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 333.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 495.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 382.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 789.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1575.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -332.0,
+        0.0,
+        807.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -332.0,
+        477.0,
+        807.0,
+        0.0,
+        495.0
+      ],
+      [
+        17.999999803298294,
+        -20.000019275907363,
+        17.99999980329875,
+        807.0000001967016,
+        -10.99996472409264,
+        477.00000019670125
+      ],
+      [
+        825.0,
+        -332.0,
+        0.0,
+        1207.0,
+        0.0,
+        18.0
+      ],
+      [
+        825.0,
+        -332.0,
+        477.0,
+        1207.0,
+        0.0,
+        495.0
+      ],
+      [
+        824.9999998032984,
+        -20.000020380639494,
+        17.99999980329875,
+        1207.0000001967016,
+        -10.999983619360506,
+        477.00000019670125
+      ],
+      [
+        -2.1318569025652323e-05,
+        -333.0,
+        -3.934025016860687e-07,
+        18.000000318569025,
+        0.0,
+        495.0000003934025
+      ],
+      [
+        806.9999891814309,
+        -333.0,
+        -3.934025016860687e-07,
+        825.0000108185691,
+        0.0,
+        495.0000003934025
+      ],
+      [
+        1206.9999880886462,
+        -333.0,
+        -3.934025016860687e-07,
+        1225.0000119113538,
+        0.0,
+        545.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0001",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 17252657,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1564.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 360.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 300.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 1528.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 1528.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 1528.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 1528.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 1528.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 1528.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1374.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -359.0,
+        0.0,
+        1546.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -359.0,
+        282.0,
+        1546.0,
+        0.0,
+        300.0
+      ],
+      [
+        17.999999803298465,
+        -20.00001116540544,
+        17.99999980329875,
+        1546.0000001967014,
+        -10.99993283459456,
+        282.00000019670125
+      ],
+      [
+        -1.3556708500672698e-05,
+        -360.0,
+        -3.934025016860687e-07,
+        17.999999556708502,
+        0.0,
+        300.0000003934025
+      ],
+      [
+        1545.9999934432915,
+        -360.0,
+        -3.934025016860687e-07,
+        1564.0000065567085,
+        0.0,
+        300.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0090",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 19312673,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 371.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 114.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 450.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 335.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 335.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 335.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 335.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 335.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 335.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 0.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -113.0,
+        0.0,
+        353.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -113.0,
+        432.0,
+        353.0,
+        0.0,
+        450.0
+      ],
+      [
+        17.99999980329835,
+        -20.000018369915555,
+        17.99999980329875,
+        353.00000019670165,
+        -10.999985630084446,
+        432.00000019670125
+      ],
+      [
+        -1.983506274960689e-05,
+        -114.0,
+        -3.934025016860687e-07,
+        17.999999835062752,
+        0.0,
+        450.0000003934025
+      ],
+      [
+        352.99999016493723,
+        -114.0,
+        -3.934025016860687e-07,
+        371.00000983506277,
+        0.0,
+        450.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0012",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 20289550,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 1296.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 370.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 1396.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 2,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 837.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 405.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 837.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 837.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 837.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 837.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 50,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 1000.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -369.0,
+        0.0,
+        855.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -369.0,
+        1378.0,
+        855.0,
+        0.0,
+        1396.0
+      ],
+      [
+        17.99999980329744,
+        -20.000059016961917,
+        17.999999803298692,
+        855.0000001967026,
+        -10.999962983038085,
+        1378.0000001967014
+      ],
+      [
+        873.0,
+        -369.0,
+        0.0,
+        1278.0,
+        0.0,
+        18.0
+      ],
+      [
+        873.0,
+        -369.0,
+        1378.0,
+        1278.0,
+        0.0,
+        1396.0
+      ],
+      [
+        872.9999998032974,
+        -20.000059575301677,
+        17.999999803298692,
+        1278.0000001967026,
+        -10.999982424698326,
+        1378.0000001967014
+      ],
+      [
+        -6.1010550219009474e-05,
+        -370.0,
+        -3.934025016860687e-07,
+        18.00000001055022,
+        0.0,
+        1396.0000003934024
+      ],
+      [
+        854.9999694894498,
+        -370.0,
+        -3.934025016860687e-07,
+        873.0000305105502,
+        0.0,
+        1396.0000003934024
+      ],
+      [
+        1277.999968396665,
+        -370.0,
+        -3.934025016860687e-07,
+        1296.000031603335,
+        0.0,
+        1446.0000003934024
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0240",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 16976603,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 427.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 430.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 162.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 391.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 391.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 391.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 391.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 391.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 391.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 637.9999999999999,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -429.0,
+        0.0,
+        409.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -429.0,
+        144.0,
+        409.0,
+        0.0,
+        162.0
+      ],
+      [
+        17.999999803298635,
+        -20.000005299394314,
+        17.999999803298742,
+        409.00000019670136,
+        -10.999982700605685,
+        144.00000019670125
+      ],
+      [
+        -7.540622590340718e-06,
+        -430.0,
+        -3.9340251589692343e-07,
+        17.99999954062259,
+        0.0,
+        162.0000003934025
+      ],
+      [
+        408.9999964593774,
+        -430.0,
+        -3.9340251589692343e-07,
+        427.0000035406226,
+        0.0,
+        162.0000003934025
+      ]
+    ]
+  },
+  {
+    "sample_id": "59919586_0082",
+    "pm_id": "59919586",
+    "category": "lower_cabinet",
+    "paramModelId": "LWIAHZYKN4EGSAABAAAAADQ8",
+    "source_orderDesignId": 18519180,
+    "input_pm": [
+      {
+        "name": "W",
+        "value": 666.0,
+        "type": "float"
+      },
+      {
+        "name": "D",
+        "value": 210.0,
+        "type": "float"
+      },
+      {
+        "name": "H",
+        "value": 450.0,
+        "type": "float"
+      },
+      {
+        "name": "N",
+        "value": 1,
+        "type": "int"
+      },
+      {
+        "name": "NKA",
+        "value": 630.0,
+        "type": "float"
+      },
+      {
+        "name": "NKB",
+        "value": 630.0,
+        "type": "float"
+      },
+      {
+        "name": "NKC",
+        "value": 630.0,
+        "type": "float"
+      },
+      {
+        "name": "NKD",
+        "value": 630.0,
+        "type": "float"
+      },
+      {
+        "name": "NKE",
+        "value": 630.0,
+        "type": "float"
+      },
+      {
+        "name": "NKF",
+        "value": 630.0,
+        "type": "float"
+      },
+      {
+        "name": "CBLSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBLXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRSYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "CBRXYS",
+        "value": 0,
+        "type": "int"
+      },
+      {
+        "name": "offGround",
+        "value": 0.0,
+        "type": "float"
+      }
+    ],
+    "panels": [
+      [
+        18.0,
+        -209.0,
+        0.0,
+        648.0,
+        0.0,
+        18.0
+      ],
+      [
+        18.0,
+        -209.0,
+        432.0,
+        648.0,
+        0.0,
+        450.0
+      ],
+      [
+        17.99999980329835,
+        -20.00001781734558,
+        17.99999980329875,
+        648.0000001967016,
+        -10.999972182654421,
+        432.00000019670125
+      ],
+      [
+        -1.983506274960689e-05,
+        -210.0,
+        -3.934025016860687e-07,
+        17.999999835062752,
+        0.0,
+        450.0000003934025
+      ],
+      [
+        647.9999901649372,
+        -210.0,
+        -3.934025016860687e-07,
+        666.0000098350628,
+        0.0,
+        450.0000003934025
+      ]
+    ]
+  }
+]

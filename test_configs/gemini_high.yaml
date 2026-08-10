@@ -1,0 +1,41 @@
+agent_config:
+  agent_args:
+    agent_name: cabinet_designer
+    sys_prompt: You are an expert cabinet designer.
+    max_iters: 30
+    compress_config: null
+    # compress_config:
+    #   trigger_threshold: 10000
+    #   keep_recent: 10
+
+  model_args:
+    # model_name: claude-sonnet-4-5
+    # model_name: gpt-5.2
+    model_name: gemini-3.1-pro-preview
+    reasoning_effort: high
+    api_key: sk-JJqe7SC9LUO0QVYxFe2eBd71F3E646Fc9b34B972Fe0436A7
+    stream: true
+    # host: localhost
+    # server_port: 8000
+    generate_kwargs:
+      temperature: 1.0
+      max_tokens: 60000
+      seed: 42
+      # parallel_tool_calls: false
+
+  # 设为 null 可跳过 MCP 工具注册
+  # tool_args:
+  #   - toolkit_name: guess_num
+  #     toolkit_url: http://0.0.0.0:8001/sse
+  #     activate_tools:
+  #       - check_guess
+
+  client_args:
+    base_url: https://oneapi.qunhequnhe.com/v1
+
+  runtime_args:
+    formatter: OpenAIChatFormatter
+    skills: null
+    sys_tools: null
+    function_tools: []
+    print_hint_msg: true
